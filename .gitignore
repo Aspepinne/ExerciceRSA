@@ -1,0 +1,5 @@
+Keys/*.key
+Encrypted/*.enc
+.idea
+out
+*.txt
